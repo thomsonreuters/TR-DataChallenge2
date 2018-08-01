@@ -1,4 +1,4 @@
-# Competition III- Reuters News Classification & Summarization
+# Competition III- Room Image Classification
 ## Introduction 
 
 ![alt text](https://github.com/katherine-shiqi/TR-DataChallenge2/blob/master/git_image/2.png)
