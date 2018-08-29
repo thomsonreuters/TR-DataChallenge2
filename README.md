@@ -24,10 +24,17 @@ ROOM  -    Bedroom or Bathroom or Kitchen(our y label)
 Testing dataset:   885 rows, 2 columns
 
 ## Submission 
-Send your code and submission file to tr-gracehopper@gmail.com <br>
-Name your code competition3 and your result submission3.csv which should strictly follow the rules below:<br>
+(I) You can use either Python or R for this competition. <br>
+(II) Send your code and predicted result file to thomsonreuters_GHC@thomsonreuters.com with a title of firstname-lastname-challenge3 (such as 'jane-doe-challenge3') <br>
+(III) If there are multiple files for the code, please zip them up.
+(V) Name your code firstname-lastname-code3 (such as jane-doe-code3.py or jane-doe-code3.zip). Name your result file firstname-lastname-result3.csv (such as jane-doe-result3.csv) which should strictly follow the rules below:<br>
 
 ![alt text](https://github.com/katherine-shiqi/TR-DataChallenge2/blob/master/git_image/4.png)
+
+Participant should assign the best room category for each image, which means that only one predicted room category for each image is allowed.
+
+
+
 
 
 ## Evaluation
@@ -39,4 +46,4 @@ One person cannot participate with more than one user accounts.  You can’t res
 Hand-labelling is not allowed on the testing dataset<br>
 Competition Timeline.  Start Date: Sep-18-2018.  End Date: Sep-23-2018 11:59 PM CST. <br>
 You agree to only use our provided training dataset for model building. Using other sources is prohibited.<br>
-Thomson Reuter reserves the right of final decision on the interpretation of these Terms and Conditions. <br>
+Thomson Reuters reserves the right of final decision on the interpretation of these Terms and Conditions. <br>
