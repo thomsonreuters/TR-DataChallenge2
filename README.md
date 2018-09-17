@@ -53,7 +53,7 @@ Maximum score is 120.<br>
 <li>You will get up to 100 points totally based on the accuracy rate of the submission CSV (firstname-lastname-result.csv). The formula is listed below:<br>
 Accuracy rate =  (correctly predicted class / total testing class) × 100%</li>
 <li>You will get up to 20 points totally based on code review determined by Thomson Reuters Review Board.<br>
-We will review your code to check plagiarism. If we find a high similarity between your code and other participants' code or code published online such as on Github, Kaggle, etc, you will get 0 points in total. 
+We will review your code to check plagiarism. If we find a high similarity between your code and other participants' code or code published online such as on Github, Kaggle, etc, you will get 0 point in total. 
 
 
 ## Rules
